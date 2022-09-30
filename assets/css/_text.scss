@@ -1,0 +1,16 @@
+.text{
+    h1{
+        color: red;
+    }
+    p{
+        color: blue;
+    }
+}
+
+.text.version2{
+    background-color: #000;
+    padding: 30px;
+    h1, p{
+        color: #fff;
+    }
+}
